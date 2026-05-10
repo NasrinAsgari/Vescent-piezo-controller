@@ -25,6 +25,10 @@ pip install -r requirements.txt
 - Vescent high-voltage piezo driver
 - Serial communication interface
 
+## GUI Preview
+![GUI Preview](gui_preview.png)
+  
+
 ## Disclaimer
 This software was developed for laboratory and research use.
 Users should verify voltage limits and hardware compatibility before operation.
