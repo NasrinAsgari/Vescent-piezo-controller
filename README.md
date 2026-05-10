@@ -26,7 +26,7 @@ pip install -r requirements.txt
 - Serial communication interface
 
 ## GUI Preview
-![GUI Preview](gui_preview.png)
+<img src="gui_preview.png" width="300">
   
 
 ## Disclaimer
